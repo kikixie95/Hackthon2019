@@ -2,16 +2,6 @@
 - This is a project for SteelHeck2019
 - This project focus on monitoring heartbeat and reporting irregular heart rate. Add features to google home and Fitbit.
 
-
-
-## Team member
-- Ruochi Zhang ([GitHub](https://github.com/zhangruochi))
-- Tianqi Xie ([Github](https://github.com/kikixie95))
-- Xiaoqian Xu ([GitHub](https://github.com/Cecilia-xu))
-- Zhehao Guo ([GitHub](https://github.com/PaulGuo5))
-- Qi Lu ([GitHub](https://github.com/FawneLu))
-
-
 ## Inspiration
 - Health rate is an important index for assessing people's health condition. We implemented an application to monitor people's heartbeat rate all day.
 - We found that Google home cannot support health care, and Fitbit cannot support data analysis. To tackle the drawbacks, we extended two features for each device.
